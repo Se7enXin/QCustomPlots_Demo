@@ -20,6 +20,8 @@
 
 ## Preview
 
+[Preview Url](https://se7enxin.github.io/assets/images/qcustomplot.gif)
+
 ![](https://se7enxin.github.io/assets/images/qcustomplot.gif)
 
 ## License
