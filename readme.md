@@ -18,6 +18,10 @@
 
 ```
 
+## Preview
+
+![](https://se7enxin.github.io/assets/images/qcustomplot.gif)
+
 ## License
 
 MIT License
